@@ -2,7 +2,7 @@
 
 - 👩🏾‍💻 Currently tinkering with ... The Spotify API
 - 📚 Currently reading ... The Effective Engineer by Edmond Lau
-- 🐛 Currently learning - Python/Django
+- 🐛 Currently learning ... Python/Django
 - 🎶 Currently on repeat ... Peru (ft. Ed Sheeran) by Fireboy DML
 - 📬 How to reach me ... [LinkedIn](https://www.linkedin.com/in/tiannahomer/)
 - 💬 *Sometimes* I get social and talk tech at [@titalkstech](https://www.instagram.com/titalkstech/)
