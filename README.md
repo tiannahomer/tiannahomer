@@ -1,6 +1,6 @@
 ![Github](https://user-images.githubusercontent.com/49917880/152079245-bb168203-4c68-495b-8e62-3255f38ad79a.png)
 
-- 👩🏾‍💻 Currently tinkering with ... The Spotify API (to automatically transfer my Apple Music library to Spotify after FOMO from #SpotifyWrapped)
+- 👩🏾‍💻 Currently tinkering with ... The Spotify API (to automatically transfer my Apple Music library to Spotify after experiencing FOMO from #SpotifyWrapped)
 - 📚 Currently reading ... The Effective Engineer by Edmond Lau
 - 🐛 Currently learning ... Python/Django
 - 🎶 Currently on repeat ... Peru (ft. Ed Sheeran) by Fireboy DML
