@@ -1,4 +1,4 @@
-![Github](https://user-images.githubusercontent.com/49917880/152088224-3fc7a221-89bb-4d99-9558-9db610094513.png)
+![Github2](https://user-images.githubusercontent.com/49917880/152091460-ac368e36-d16c-4783-aba1-1addfb99a522.png)
 
 - 👩🏾‍💻 Currently tinkering with ... The Spotify API (to automatically transfer my Apple Music library to Spotify after experiencing FOMO from #SpotifyWrapped)
 - 📚 Currently reading ... The Effective Engineer by Edmond Lau
